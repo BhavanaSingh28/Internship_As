@@ -2,6 +2,8 @@
 
 This assignment could be 80% complted with core development finished due to large dataset and lack of resources . 
 
+We can directly run the code file in Googlecolab .(Working environment used during the development of model )
+
 This project is a part of the Solvei8 AI/ML Internship assignment. It involves developing a booking analytics and QA system using FastAPI. The goal is to create a system that provides analytics reports and answers booking-related questions using RAG (Retrieval-Augmented Generation).
 
 🚀 Project Overview
